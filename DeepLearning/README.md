@@ -1,3 +1,4 @@
 - [Deep-SVDD-PyTorch](https://github.com/lukasruff/Deep-SVDD-PyTorch)
 - [PaDiM-Anomaly-Detection-Localization-master](PaDiM-Anomaly-Detection-Localization-master)
 - [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
+- [pytorch-msssim](https://github.com/VainF/pytorch-msssim)
